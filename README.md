@@ -58,7 +58,7 @@ Feel free to experiment with different datasets, models, and evaluation metrics 
 ## Contact
 
 For any questions, suggestions, or collaborations, feel free to reach out:
-- Priyansh(mailto:priyanshkumar50@gmail.com)
+- Harsh(mailto:tyagiharsh079@gmail.com)
 
 
 ---
